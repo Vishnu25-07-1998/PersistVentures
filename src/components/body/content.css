@@ -1,0 +1,127 @@
+.persist-content {
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.persist-content .title {
+    margin: 80px auto 120px;
+    text-align: center;
+    width: 45rem;
+}
+
+.persist-content .title h3 {
+    margin: 0px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    color: rgb(8, 61, 33);
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.persist-content .title p {
+    font-size: 20px;
+    margin: 0px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    color: rgb(55, 64, 73);
+    font-weight: 300
+}
+
+.wrapper-content {
+    width: 100%;
+    display: flex;
+    padding: 2rem;
+    gap: 2rem;
+}
+
+.wrapper-content .left {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    /* background-color: rgb(212, 175, 55); */
+}
+
+.wrapper-content .left p {
+    font-size: 20px;
+    margin: 0px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    color: rgb(55, 64, 73);
+    font-weight: 300
+}
+
+.wrapper-content .left button {
+    width: 5rem;
+    padding: 4px;
+}
+
+.wrapper-content .right {
+    flex: 2;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.wrapper-content .right p {
+    font-size: 20px;
+    margin: 0px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    color: rgb(55, 64, 73);
+    font-weight: 300;
+    width: 100%;
+    text-align: center;
+}
+
+.worker-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    width: 220px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.worker-card:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.worker-photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    object-fit: cover;
+}
+
+.worker-details {
+    text-align: center;
+}
+
+.worker-details h4 {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.worker-details p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #555;
+}

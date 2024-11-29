@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "service": "Plumber",
+      "location": "New York",
+      "experience": 5,
+      "rating": 4.5,
+      "contact": "123-456-7890",
+      "photo": "images/workers/john_doe.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "service": "Electrician",
+      "location": "Los Angeles",
+      "experience": 7,
+      "rating": 4.7,
+      "contact": "987-654-3210",
+      "photo": "images/workers/jane_smith.png"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "service": "Carpenter",
+      "location": "Chicago",
+      "experience": 3,
+      "rating": 4.3,
+      "contact": "555-555-5555",
+      "photo": "images/workers/michael_brown.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "service": "Painter",
+      "location": "New York",
+      "experience": 6,
+      "rating": 4.8,
+      "contact": "444-333-2222",
+      "photo": "images/workers/emily_davis.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Robert Wilson",
+      "service": "Plumber",
+      "location": "Los Angeles",
+      "experience": 4,
+      "rating": 4.4,
+      "contact": "222-111-0000",
+      "photo": "images/workers/robert_wilson.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Jessica Garcia",
+      "service": "Electrician",
+      "location": "Chicago",
+      "experience": 8,
+      "rating": 4.9,
+      "contact": "333-222-1111",
+      "photo": "images/workers/jessica_garcia.jpg"
+    }
+]  
